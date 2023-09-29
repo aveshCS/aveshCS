@@ -16,10 +16,8 @@ Passionate about technology and want to learn & explore new technologies.
 ---
 
 
-### Connect with me: [avesh-singh-cs.me](linkedin.com/in/avesh-singh-cs)
-
-[![ln](./Images/linkedin-light.svg)](https://www.linkedin.com/in/avesh-singh-cs)
-[![ln](./Images/linkedin-dark.svg)](https://www.linkedin.com/in/avesh-singh-cs)
+### Connect with me: 
+[![ln](./Images/linkedin-light.svg)](https://www.linkedin.com/in/avesh-singh-cs)  [![ln](./Images/linkedin-dark.svg)](https://www.linkedin.com/in/avesh-singh-cs)
 &nbsp;&nbsp;
 
 
