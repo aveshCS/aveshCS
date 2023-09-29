@@ -1,10 +1,28 @@
-- 👋 Hi, I’m Avesh, currently a second year Computer Science Student
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on the front end of a Website
-- 📫 How to reach me ...
+# Hello, I'm [Avesh Singh!](https://www.linkedin.com/in/avesh-singh-30b00a219/)
 
-<!---
-aveshCS/aveshCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+Web+Developer;Competitive+Coder)](https://git.io/typing-svg)
+
+## About
+
+A Student and Learner from India, currently persuing B.Tech in Computer Science & Engineering from Lovely professional University.
+Passionate about technology and want to learn & explore new technologies.
+
+### Key Features
+
+- Learning MERN Stack.
+- Intrested in WEB3 & CyberSecurity.
+- Practice DSA Everyday.
+
+---
+
+
+### Connect with me: [avesh-singh-cs.me](linkedin.com/in/avesh-singh-cs)
+
+[![ln](./Images/linkedin-light.svg)](https://www.linkedin.com/in/avesh-singh-cs)
+[![ln](./Images/linkedin-dark.svg)](https://www.linkedin.com/in/avesh-singh-cs)
+&nbsp;&nbsp;
+
+
+### MyBadges
+
+[![@avesh's Holopin board](https://holopin.io/api/user/board?user=aveshcs)](https://holopin.io/@aveshcs)
