@@ -82,7 +82,6 @@ I enjoy solving real-world engineering problems, optimizing backend performance,
 ## 📈 GitHub Goals for 2026
 
 - Contribute to major Open Source projects
-- Participate in Google Summer of Code 2026
 - Build impactful backend infrastructure projects
 - Deep dive into observability & distributed systems
 
