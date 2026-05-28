@@ -1,14 +1,14 @@
 # Hello, I'm [Avesh Singh](https://www.linkedin.com/in/avesh-singh-30b00a219/) 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=1A9AF7&lines=Backend+Engineer;Node.js+Developer;Open+Source+Contributor;Distributed+Systems+Enthusiast;Kafka+%7C+BullMQ+%7C+OpenTelemetry)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=1A9AF7&center=true&vCenter=true&width=1000&lines=Backend+Engineer;Node.js+Developer;Open+Source+Contributor;Distributed+Systems+Enthusiast;Kafka+%7C+BullMQ+%7C+OpenTelemetry)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me
 
-I'm a Backend Engineer from India with experience building scalable backend systems, ETL pipelines, distributed workflows, and enterprise APIs.
+I'm a Backend Engineer from India with experience building scalable backend systems, ETL pipelines, distributed workflows, and enterprise-grade APIs.
 
-Currently working at :contentReference[oaicite:0]{index=0}, where I work on production-grade systems involving asynchronous processing, observability, data synchronization, and financial platforms.
+Currently working at **Valuefy Technologies Private Limited**, where I work on production-grade systems involving asynchronous processing, observability, data synchronization, and financial platforms.
 
 I enjoy solving real-world engineering problems, optimizing backend performance, and exploring distributed systems & cloud-native technologies.
 
@@ -17,32 +17,40 @@ I enjoy solving real-world engineering problems, optimizing backend performance,
 ## 🛠 Tech Stack
 
 ### Backend & APIs
-- JavaScript (ES6+)
-- Node.js
-- REST APIs
-- LoopBack 3
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![NodeJS](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![REST API](https://img.shields.io/badge/-REST%20API-black?style=for-the-badge)
+![LoopBack](https://img.shields.io/badge/-LoopBack%203-black?style=for-the-badge&logo=loopback)
+
+---
 
 ### Distributed Systems & Async Processing
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
-- Cron Jobs
-- Event-Driven Architecture
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=for-the-badge&logo=apachekafka)
+![BullMQ](https://img.shields.io/badge/-BullMQ-black?style=for-the-badge)
+![Cron Jobs](https://img.shields.io/badge/-Cron%20Jobs-black?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/-Event%20Driven%20Architecture-black?style=for-the-badge)
+
+---
 
 ### Observability & Monitoring
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
-- :contentReference[oaicite:5]{index=5}
-- :contentReference[oaicite:6]{index=6}
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-black?style=for-the-badge&logo=opentelemetry)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=for-the-badge&logo=grafana)
+![Loki](https://img.shields.io/badge/-Loki-black?style=for-the-badge)
+![Jaeger](https://img.shields.io/badge/-Jaeger-black?style=for-the-badge)
+
+---
 
 ### Databases
-- :contentReference[oaicite:7]{index=7}
-- :contentReference[oaicite:8]{index=8}
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=for-the-badge&logo=oracle)
+
+---
 
 ### Tools & Platforms
-- :contentReference[oaicite:9]{index=9}
-- :contentReference[oaicite:10]{index=10}
-- Linux
-- Postman
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
 
 ---
 
@@ -52,7 +60,8 @@ I enjoy solving real-world engineering problems, optimizing backend performance,
 - System Design
 - Cloud & DevOps
 - Open Source Contributions
-- CNCF & Observability Ecosystem
+- CNCF Ecosystem
+- Observability Engineering
 - GSoC 2026 Preparation
 
 ---
@@ -64,7 +73,9 @@ I enjoy solving real-world engineering problems, optimizing backend performance,
 - Open Source
 - Developer Tooling
 - AI Integrations
-- WebRTC & Real-Time Systems
+- Real-Time Systems
+- WebRTC
+- Infrastructure Engineering
 
 ---
 
@@ -77,15 +88,42 @@ I enjoy solving real-world engineering problems, optimizing backend performance,
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Stats
 
-[![LinkedIn](./Images/linkedin-light.svg)](https://www.linkedin.com/in/avesh-singh-30b00a219/)
-[![LinkedIn](./Images/linkedin-dark.svg)](https://www.linkedin.com/in/avesh-singh-30b00a219/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
 
-📧 Email: aveshzoop@gmail.com
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="languages" />
+</p>
 
 ---
 
-## 🏆 Badges
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/avesh-singh-30b00a219/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="mailto:aveshzoop@gmail.com">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🏆 Holopin Badges
 
 [![@avesh's Holopin board](https://holopin.io/api/user/board?user=aveshcs)](https://holopin.io/@aveshcs)
+
+---
+
+## ⚡ Fun Fact
+
+I love debugging distributed systems, optimizing backend performance, and turning complex engineering problems into scalable solutions 🚀
